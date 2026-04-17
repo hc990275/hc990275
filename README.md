@@ -2,8 +2,6 @@
 
 # 🌌 hc990275
 
-<img src="./header.png" width="100%" alt="hc990275 Banner" />
-
 ### ✨ 追求极致效率的全栈开发者 / 自动化专家
 
 [![Visitors](https://komarev.com/ghpvc/?username=hc990275&color=BD93F9&style=for-the-badge&logo=github)](https://github.com/hc990275)
